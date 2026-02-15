@@ -4,6 +4,16 @@ I am Kevin, a Software Engineer with a growing focus on quantitative analysis an
 
 I work at the intersection of financial markets, risk systems, and scalable backend engineering — building production-grade systems by day and researching on data-driven trading strategies during my free time. I am particularly interested in statistical modelling, portfolio construction, and developing robust tradable strategies grounded in sound risk management.
 
+## 📈 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=KevinTan1203&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=KevinTan1203&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KevinTan1203&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinTan1203&bg_color=0d1117&color=58a6ff&line=00bfff&point=00bfff&area=true&area_color=003366&hide_border=true">
+</p>
+
 ### Tech stacks that I am passionate about: </br>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
