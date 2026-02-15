@@ -6,6 +6,8 @@ I work at the intersection of financial markets, risk systems, and scalable back
 
 ## 📈 GitHub Analytics
 
+Here is a snapshot of my GitHub activity and coding footprint, highlighting my contributions, streaks, and most-used programming languages
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=KevinTan1203&show_icons=true&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=KevinTan1203&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KevinTan1203&layout=compact&theme=tokyonight)
@@ -14,7 +16,9 @@ I work at the intersection of financial markets, risk systems, and scalable back
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinTan1203&bg_color=0d1117&color=58a6ff&line=00bfff&point=00bfff&area=true&area_color=003366&hide_border=true">
 </p>
 
-### Tech stacks that I am passionate about: </br>
+## 💻 Tech Stacks
+
+### Tools and Languages that I am passionate about: </br>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
@@ -27,7 +31,7 @@ I work at the intersection of financial markets, risk systems, and scalable back
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=for-the-badge&logo=Mathworks)
 ![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
 
-### Some of the technologies I have worked with: </br>
+### Tools and Languages I have worked with: </br>
 
 ![Spring Boot](http://img.shields.io/badge/-Spring%20Boot-000000?style=for-the-badge&logo=Spring-Boot)
 ![Jenkins](http://img.shields.io/badge/-Jenkins-000000?style=for-the-badge&logo=Jenkins)
