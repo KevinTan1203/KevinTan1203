@@ -29,7 +29,7 @@ Previously, I was a Software Engineer in Global Markets & Enterprise Technology 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinTan1203&bg_color=0d1117&color=58a6ff&line=00bfff&point=00bfff&area=true&area_color=003366&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/58a6ff/KevinTan1203" alt="Kevin's Github Contribution Chart" width="100%" />
 </p>
 
 ---
