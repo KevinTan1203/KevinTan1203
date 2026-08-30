@@ -29,7 +29,9 @@ Previously, I was a Software Engineer in Global Markets & Enterprise Technology 
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/KevinTan1203" alt="Kevin's Github Contribution Chart" width="100%" />
+  <a href="https://commit-history.com/KevinTan1203">
+    <img alt="Kevin's commit history" src="https://commit-history.com/embed/KevinTan1203?theme=dark" />
+  </a>
 </p>
 
 ---
