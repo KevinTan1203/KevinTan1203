@@ -73,7 +73,7 @@ Previously, I was a Software Engineer in Global Markets & Enterprise Technology 
 <p align="center">
   <!-- Portfolio -->
   <a href="https://kevintan1203.github.io" target="_blank" alt="Portfolio">
-    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg" height="30" width="30">
+    <img src="website-logo.png" height="30" width="30">
   </a>
   &nbsp;
   <!-- X / Twitter -->
