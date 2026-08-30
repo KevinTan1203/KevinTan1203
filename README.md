@@ -66,23 +66,43 @@ Previously, I was a Software Engineer in Global Markets & Enterprise Technology 
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://kevintan1203.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-kevintan1203.github.io-00bfff?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/kevarno-12/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/Kev_serenity" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  &nbsp;
-  <a href="mailto:kevintanyj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kevintanyj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <i>Let's connect, collaborate and tap on each other's ideas and knowledge!<br>
+  After all, society progresses on a shared sense of belonging and learning.</i>
 </p>
 
 <p align="center">
-  <i>Always open to conversations on quantitative finance, systematic trading, digital assets, and financial technology.</i>
+  <!-- Portfolio -->
+  <a href="https://kevintan1203.github.io" target="_blank" alt="Portfolio">
+    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg" height="30" width="30">
+  </a>
+  &nbsp;
+  <!-- X / Twitter -->
+  <a href="https://x.com/Kev_serenity" alt="X">
+    <img src="x-logo.png" height="30" width="30">
+  </a>
+  &nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kevarno-12/" alt="LinkedIn">
+    <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30">
+  </a>
+  &nbsp;
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/kevin.tan.56" alt="Facebook">
+    <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1024px-Facebook_Logo_(2019).png" height="30" width="30">
+  </a>
+  &nbsp;
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/kefvarn4life/" alt="Instagram">
+    <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30">
+  </a>
+  &nbsp;
+  <!-- Email -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevintanyj@gmail.com" target="_blank" alt="Email">
+    <img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30">
+  </a>
+  &nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/KevinTan1203" alt="GitHub">
+    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg" height="30" width="30">
+  </a>
 </p>
