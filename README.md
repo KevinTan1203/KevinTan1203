@@ -20,16 +20,16 @@ Previously, I was a Software Engineer in Global Markets & Enterprise Technology 
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinTan1203&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTan1203&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=KevinTan1203&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KevinTan1203&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinTan1203&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=KevinTan1203&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinTan1203&bg_color=0d1117&color=58a6ff&line=00bfff&point=00bfff&area=true&area_color=003366&hide_border=true&custom_title=Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinTan1203&bg_color=0d1117&color=58a6ff&line=00bfff&point=00bfff&area=true&area_color=003366&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
 ---
